@@ -1,0 +1,10 @@
+name: MCJDOM Database
+version: 0.0.1a
+description: JDOM implementation of the MCDatabase
+# We could place every author in the authors list, but chose not to for illustrative purposes
+# Also, having an author distinguishes that person as the project lead, and ensures their 
+# name is displayed first
+author: McDjuady
+load: STARTUP
+main: com.gmail.mcdjuady.mcjdomdatabase.JDOMDatabasePlugin
+database: false
